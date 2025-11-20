@@ -187,8 +187,6 @@ Enhance overall customer satisfaction
 
 **9. Project Links**
 
-GitHub Repository:https://github.com/Aartiii348/Blinkit-Analysis-Python-Project/edit/main/README.md
-
-
+GitHub Repository - https://github.com/Aartiii348/Blinkit-Analysis-Python-Project
 
 
